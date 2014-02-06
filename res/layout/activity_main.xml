@@ -42,7 +42,8 @@
         android:layout_alignLeft="@+id/totalDisplay"
         android:layout_below="@+id/totalDisplay"
         android:layout_marginTop="128dp"
-        android:text="Subtract one"
+        android:background="@drawable/custom"
+        android:text="Subtract One"
         android:textSize="30dp" />
 
     <Button
@@ -53,6 +54,7 @@
         android:layout_below="@+id/totalDisplay"
         android:layout_marginTop="48dp"
         android:text="Add one"
-        android:textSize="30dp" />
+        android:textSize="30dp"
+        android:background="@drawable/custom" />
 
 </RelativeLayout>

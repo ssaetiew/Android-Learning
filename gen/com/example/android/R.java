@@ -26,30 +26,43 @@ public final class R {
     }
     public static final class drawable {
         public static final int background=0x7f020000;
-        public static final int ic_launcher=0x7f020001;
+        public static final int button=0x7f020001;
+        public static final int buttonpop=0x7f020002;
+        public static final int buttonselected=0x7f020003;
+        public static final int custom=0x7f020004;
+        public static final int graphics=0x7f020005;
+        public static final int ic_launcher=0x7f020006;
     }
     public static final class id {
-        public static final int aboutUs=0x7f0b001f;
-        public static final int action_settings=0x7f0b0022;
+        public static final int aboutUs=0x7f0b0030;
+        public static final int action_settings=0x7f0b0033;
+        public static final int addTabBt=0x7f0b002b;
         public static final int analogClock1=0x7f0b000d;
         public static final int bAdd=0x7f0b0005;
-        public static final int bResult=0x7f0b001c;
+        public static final int bResult=0x7f0b002d;
         public static final int bSentEmail=0x7f0b000c;
         public static final int bSetWallPaper=0x7f0b0014;
         public static final int bSubtract=0x7f0b0004;
+        public static final int button1=0x7f0b001b;
+        public static final int button2=0x7f0b001c;
+        public static final int button3=0x7f0b001d;
+        public static final int button4=0x7f0b001e;
+        public static final int checkBox1=0x7f0b0022;
+        public static final int content=0x7f0b0020;
         public static final int etAction=0x7f0b000a;
         public static final int etEmails=0x7f0b0006;
         public static final int etIntro=0x7f0b0007;
         public static final int etName=0x7f0b0008;
         public static final int etOutro=0x7f0b000b;
         public static final int etThings=0x7f0b0009;
-        public static final int exit=0x7f0b0021;
+        public static final int exit=0x7f0b0032;
         public static final int gotTv=0x7f0b0011;
+        public static final int handle=0x7f0b0021;
         public static final int ibTakePic=0x7f0b0013;
         public static final int ivReturnPic=0x7f0b0012;
         public static final int menuId=0x7f0b0000;
-        public static final int password=0x7f0b001b;
-        public static final int preferences=0x7f0b0020;
+        public static final int password=0x7f0b002c;
+        public static final int preferences=0x7f0b0031;
         public static final int radio0=0x7f0b0016;
         public static final int radio1=0x7f0b0017;
         public static final int radio2=0x7f0b0018;
@@ -57,13 +70,22 @@ public final class R {
         public static final int returnBt=0x7f0b0019;
         public static final int safrBt=0x7f0b0010;
         public static final int sendEt=0x7f0b000e;
+        public static final int slidingDrawer1=0x7f0b001f;
         public static final int startActivityBt=0x7f0b000f;
+        public static final int startBt=0x7f0b0025;
+        public static final int stopBt=0x7f0b0026;
+        public static final int tab1=0x7f0b0024;
+        public static final int tab2=0x7f0b0028;
+        public static final int tab3=0x7f0b002a;
+        public static final int tabhost=0x7f0b0023;
         public static final int testTv=0x7f0b001a;
+        public static final int text1=0x7f0b0027;
+        public static final int text2=0x7f0b0029;
         public static final int textView1=0x7f0b0001;
         public static final int textView2=0x7f0b0002;
-        public static final int togButton=0x7f0b001d;
+        public static final int togButton=0x7f0b002e;
         public static final int totalDisplay=0x7f0b0003;
-        public static final int tvResult=0x7f0b001e;
+        public static final int tvResult=0x7f0b002f;
     }
     public static final class layout {
         public static final int about=0x7f030000;
@@ -72,15 +94,19 @@ public final class R {
         public static final int open=0x7f030003;
         public static final int photo=0x7f030004;
         public static final int play=0x7f030005;
-        public static final int splash=0x7f030006;
-        public static final int text=0x7f030007;
+        public static final int sliding=0x7f030006;
+        public static final int splash=0x7f030007;
+        public static final int tabs=0x7f030008;
+        public static final int text=0x7f030009;
     }
     public static final class menu {
         public static final int cool_menu=0x7f0a0000;
         public static final int main=0x7f0a0001;
     }
     public static final class raw {
-        public static final int sound=0x7f050000;
+        public static final int backgroundmusic=0x7f050000;
+        public static final int explosion=0x7f050001;
+        public static final int sound=0x7f050002;
     }
     public static final class string {
         public static final int RadioButton1=0x7f080005;

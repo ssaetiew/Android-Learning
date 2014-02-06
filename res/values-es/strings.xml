@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Premera App</string>
+    <string name="action_settings">Configuracion	</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="test">Golf **El Mejor Programmer**</string>
+	<string name="golf">Radio Golfer</string>
+	<string name="RadioButton1">Cool</string>
+	<string name="RadioButton2">Cooler</string>
+	<string name="RadioButton3">Coolest</string>
+	<string name="menuText">Android es el mejor plaforma. </string>
+</resources>
